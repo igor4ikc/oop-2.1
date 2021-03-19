@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+     Создается библиотека D:\навчання\repos\lab 2\lab 2.1\Debug\UnitTest1.lib и объект D:\навчання\repos\lab 2\lab 2.1\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Line::Line(double,double)" (??0Line@@QAE@NN@Z) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Line::~Line(void)" (??1Line@@QAE@XZ) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "class Line __cdecl operator+(class Line const &,class Line const &)" (??H@YA?AVLine@@ABV0@0@Z) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+D:\навчання\repos\lab 2\lab 2.1\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 3
